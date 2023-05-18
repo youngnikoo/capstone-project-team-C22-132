@@ -1,5 +1,5 @@
 const CONFIG = {
-  BASE_URL: 'http://api-recipee.herokuapp.com/api/',
+  BASE_URL: 'https://recipee-api.fly.dev/api/',
   CACHE_NAME: new Date().toISOString(),
 
   DATABASE_NAME: 'recipes-database',
